@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/Insomenya/welbex-blog-backend/issues"
   },
-  "homepage": "https://github.com/Insomenya/welbex-blog-backend#readme"
+  "homepage": "https://github.com/Insomenya/welbex-blog-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.2"
+  }
 }
